@@ -19,8 +19,6 @@ sites:
     url: https://api.precisiongenetics.com/reports/v1/status
   - name: Frontend UI
     url: https://qrm.precisiongenetics.com/auth/login
-  - name: Kong API
-    url: https://api.precisiongenetics.com/kong/v1/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
