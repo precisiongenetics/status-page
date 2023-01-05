@@ -23,7 +23,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.precisiongenetics.com
+  cname: https://status.precisiongenetics.com
   #baseUrl: /status-page
   logoUrl: https://pg-logos.s3.amazonaws.com/pg-logo.png
   name: Precision Genetics
