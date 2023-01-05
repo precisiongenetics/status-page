@@ -4,21 +4,21 @@ repo: status-page # The name of this repository
 
 sites:
   - name: Precision Genetics
-  url: https://www.precisiongenetics.com
+    url: https://www.precisiongenetics.com
   - name: Kahuna API
-  url: https://api.precisiongenetics.com/kahuna/v1/status
+    url: https://api.precisiongenetics.com/kahuna/v1/status
   - name: Health API
-  url: https://api.precisiongenetics.com/health/v1/status
+    url: https://api.precisiongenetics.com/health/v1/status
   - name: Communications API
-  url: https://api.precisiongenetics.com/email/v1/status
+    url: https://api.precisiongenetics.com/email/v1/status
   - name: Jobs API
-  url: https://api.precisiongenetics.com/jobs/v1/status
+    url: https://api.precisiongenetics.com/jobs/v1/status
   - name: Beat API
-  url: https://api.precisiongenetics.com/beat/v1/status
+    url: https://api.precisiongenetics.com/beat/v1/status
   - name: Reports API
-  url: https://api.precisiongenetics.com/reports/v1/status
+    url: https://api.precisiongenetics.com/reports/v1/status
   - name: Frontend UI
-  url: https://qrm.precisiongenetics.com/auth/login
+    url: https://qrm.precisiongenetics.com/auth/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
