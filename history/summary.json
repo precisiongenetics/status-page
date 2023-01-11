@@ -94,18 +94,20 @@
     "url": "https://api.precisiongenetics.com/beat/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "beat-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 50,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
-    "dailyMinutesDown": {}
+    "time": 66,
+    "timeDay": 45,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 66,
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   },
   {
     "name": "Reports API",
