@@ -130,17 +130,19 @@
     "url": "https://qrm.precisiongenetics.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/qrm.precisiongenetics.com.ico",
     "slug": "frontend-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 334,
-    "timeWeek": 213,
-    "timeMonth": 249,
-    "timeYear": 249,
-    "dailyMinutesDown": {}
+    "time": 252,
+    "timeDay": 330,
+    "timeWeek": 227,
+    "timeMonth": 252,
+    "timeYear": 252,
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   }
 ]
