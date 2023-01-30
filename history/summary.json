@@ -40,18 +40,20 @@
     "url": "https://api.precisiongenetics.com/health/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "health-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 19,
-    "timeWeek": 70,
-    "timeMonth": 72,
-    "timeYear": 72,
-    "dailyMinutesDown": {}
+    "time": 71,
+    "timeDay": 29,
+    "timeWeek": 66,
+    "timeMonth": 71,
+    "timeYear": 71,
+    "dailyMinutesDown": {
+      "2023-01-30": 0
+    }
   },
   {
     "name": "Communications API",
