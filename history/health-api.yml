@@ -1,7 +1,7 @@
 url: https://api.precisiongenetics.com/health/v1/status
 status: up
 code: 200
-responseTime: 23
-lastUpdated: 2023-02-23T23:06:37.220Z
+responseTime: 120
+lastUpdated: 2023-02-24T23:05:35.310Z
 startTime: Thu Jan 05 2023 03:41:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
