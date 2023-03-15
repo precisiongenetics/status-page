@@ -1,7 +1,7 @@
 url: https://api.precisiongenetics.com/beat/v1/status
-status: down
-code: 503
-responseTime: 71
-lastUpdated: 2023-03-15T00:10:00.250Z
+status: up
+code: 200
+responseTime: 69
+lastUpdated: 2023-03-15T01:54:21.681Z
 startTime: Thu Jan 05 2023 03:41:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
