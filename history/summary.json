@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 671,
-    "timeDay": 606,
-    "timeWeek": 539,
-    "timeMonth": 510,
-    "timeYear": 671,
+    "time": 670,
+    "timeDay": 540,
+    "timeWeek": 528,
+    "timeMonth": 511,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2023-02-11": 7
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
-    "time": 246,
-    "timeDay": 312,
+    "time": 245,
+    "timeDay": 101,
     "timeWeek": 268,
-    "timeMonth": 249,
-    "timeYear": 246,
+    "timeMonth": 241,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2023-03-15": 104
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "health-api",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.90%",
-    "time": 68,
-    "timeDay": 129,
+    "uptimeYear": "99.91%",
+    "time": 67,
+    "timeDay": 14,
     "timeWeek": 75,
-    "timeMonth": 82,
-    "timeYear": 68,
+    "timeMonth": 79,
+    "timeYear": 67,
     "dailyMinutesDown": {
       "2023-03-15": 104,
       "2023-01-30": 26
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
     "time": 67,
-    "timeDay": 104,
+    "timeDay": 15,
     "timeWeek": 65,
-    "timeMonth": 73,
+    "timeMonth": 71,
     "timeYear": 67,
     "dailyMinutesDown": {
       "2023-03-15": 104
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
-    "time": 64,
-    "timeDay": 105,
-    "timeWeek": 61,
-    "timeMonth": 74,
-    "timeYear": 64,
+    "time": 63,
+    "timeDay": 11,
+    "timeWeek": 60,
+    "timeMonth": 73,
+    "timeYear": 63,
     "dailyMinutesDown": {
       "2023-03-15": 104
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
     "time": 61,
-    "timeDay": 123,
-    "timeWeek": 64,
-    "timeMonth": 72,
+    "timeDay": 14,
+    "timeWeek": 63,
+    "timeMonth": 69,
     "timeYear": 61,
     "dailyMinutesDown": {
       "2023-03-15": 104
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
-    "time": 71,
-    "timeDay": 105,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 71,
+    "time": 70,
+    "timeDay": 12,
+    "timeWeek": 71,
+    "timeMonth": 78,
+    "timeYear": 70,
     "dailyMinutesDown": {
       "2023-03-15": 104
     }
@@ -151,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 212,
-    "timeDay": 254,
-    "timeWeek": 216,
-    "timeMonth": 223,
-    "timeYear": 212,
+    "time": 210,
+    "timeDay": 78,
+    "timeWeek": 211,
+    "timeMonth": 218,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2023-03-15": 17,
       "2023-01-24": 9
