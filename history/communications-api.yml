@@ -1,7 +1,7 @@
 url: https://api.precisiongenetics.com/email/v1/status
-status: down
-code: 503
-responseTime: 69
-lastUpdated: 2023-08-25T00:11:46.140Z
+status: up
+code: 200
+responseTime: 76
+lastUpdated: 2023-08-25T02:29:35.965Z
 startTime: 2023-01-05T03:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
