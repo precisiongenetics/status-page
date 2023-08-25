@@ -26,9 +26,9 @@
     "slug": "kahuna-api",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "56.97%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "56.02%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.81%",
     "time": 254,
     "timeDay": 240,
@@ -36,7 +36,7 @@
     "timeMonth": 259,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-08-25": 620
+      "2023-08-25": 633
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "health-api",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "56.98%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "56.02%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.81%",
     "time": 74,
     "timeDay": 49,
@@ -56,7 +56,7 @@
     "timeMonth": 70,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-08-25": 620
+      "2023-08-25": 633
     }
   },
   {
@@ -66,9 +66,9 @@
     "slug": "communications-api",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "55.88%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "54.92%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.81%",
     "time": 77,
     "timeDay": 67,
@@ -76,7 +76,7 @@
     "timeMonth": 76,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-08-25": 635
+      "2023-08-25": 649
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://api.precisiongenetics.com/jobs/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "jobs-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "55.88%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "54.94%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.81%",
     "time": 75,
-    "timeDay": 59,
-    "timeWeek": 71,
-    "timeMonth": 69,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 71,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-08-25": 635
+      "2023-08-25": 649
     }
   },
   {
@@ -106,9 +106,9 @@
     "slug": "beat-api",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "55.88%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "54.92%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.81%",
     "time": 70,
     "timeDay": 64,
@@ -116,7 +116,7 @@
     "timeMonth": 74,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2023-08-25": 635
+      "2023-08-25": 649
     }
   },
   {
@@ -126,9 +126,9 @@
     "slug": "reports-api",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "55.89%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "54.93%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.81%",
     "time": 76,
     "timeDay": 35,
@@ -136,7 +136,7 @@
     "timeMonth": 70,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-08-25": 635
+      "2023-08-25": 649
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://qrm.precisiongenetics.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/qrm.precisiongenetics.com.ico",
     "slug": "frontend-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 113,
-    "timeWeek": 198,
-    "timeMonth": 217,
-    "timeYear": 215,
+    "time": 216,
+    "timeDay": 192,
+    "timeWeek": 215,
+    "timeMonth": 221,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-08-25": 0
+      "2023-08-25": 2
     }
   }
 ]
