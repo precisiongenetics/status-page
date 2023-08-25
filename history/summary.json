@@ -24,36 +24,40 @@
     "url": "https://api.precisiongenetics.com/kahuna/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "kahuna-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 114,
-    "timeWeek": 228,
-    "timeMonth": 257,
+    "timeDay": 190,
+    "timeWeek": 233,
+    "timeMonth": 258,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Health API",
     "url": "https://api.precisiongenetics.com/health/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "health-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 74,
-    "timeDay": 17,
-    "timeWeek": 64,
-    "timeMonth": 71,
+    "timeDay": 27,
+    "timeWeek": 61,
+    "timeMonth": 70,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Communications API",
@@ -62,9 +66,9 @@
     "slug": "communications-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 77,
     "timeDay": 43,
@@ -72,7 +76,7 @@
     "timeMonth": 75,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-08-25": 0
+      "2023-08-25": 16
     }
   },
   {
@@ -82,9 +86,9 @@
     "slug": "jobs-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 75,
     "timeDay": 43,
@@ -92,7 +96,7 @@
     "timeMonth": 68,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-08-25": 0
+      "2023-08-25": 16
     }
   },
   {
@@ -102,9 +106,9 @@
     "slug": "beat-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 70,
     "timeDay": 43,
@@ -112,7 +116,7 @@
     "timeMonth": 73,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2023-08-25": 0
+      "2023-08-25": 16
     }
   },
   {
@@ -122,9 +126,9 @@
     "slug": "reports-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 77,
     "timeDay": 43,
@@ -132,7 +136,7 @@
     "timeMonth": 72,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-08-25": 0
+      "2023-08-25": 16
     }
   },
   {
