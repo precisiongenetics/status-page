@@ -60,72 +60,80 @@
     "url": "https://api.precisiongenetics.com/email/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "communications-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 16,
-    "timeWeek": 61,
+    "timeDay": 43,
+    "timeWeek": 62,
     "timeMonth": 75,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Jobs API",
     "url": "https://api.precisiongenetics.com/jobs/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "jobs-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 75,
-    "timeDay": 16,
+    "timeDay": 43,
     "timeWeek": 70,
     "timeMonth": 68,
     "timeYear": 75,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Beat API",
     "url": "https://api.precisiongenetics.com/beat/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "beat-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 16,
-    "timeWeek": 61,
+    "timeDay": 43,
+    "timeWeek": 62,
     "timeMonth": 73,
     "timeYear": 70,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Reports API",
     "url": "https://api.precisiongenetics.com/reports/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "reports-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 16,
+    "timeDay": 43,
     "timeWeek": 63,
     "timeMonth": 72,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Frontend UI",
