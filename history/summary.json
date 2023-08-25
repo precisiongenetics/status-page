@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "kahuna-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "91.50%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.81%",
+    "uptimeDay": "56.97%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.81%",
     "time": 254,
     "timeDay": 240,
     "timeWeek": 244,
     "timeMonth": 259,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-08-25": 122
+      "2023-08-25": 620
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "health-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.81%",
+    "uptimeDay": "56.98%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.81%",
     "time": 74,
     "timeDay": 49,
     "timeWeek": 63,
     "timeMonth": 70,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-08-25": 122
+      "2023-08-25": 620
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "communications-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.81%",
+    "uptimeDay": "55.88%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.81%",
     "time": 77,
     "timeDay": 67,
     "timeWeek": 67,
     "timeMonth": 76,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-08-25": 138
+      "2023-08-25": 635
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "jobs-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.81%",
+    "uptimeDay": "55.88%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.81%",
     "time": 75,
     "timeDay": 59,
     "timeWeek": 71,
     "timeMonth": 69,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-08-25": 138
+      "2023-08-25": 635
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "beat-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.81%",
+    "uptimeDay": "55.88%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.81%",
     "time": 70,
     "timeDay": 64,
     "timeWeek": 66,
     "timeMonth": 74,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2023-08-25": 138
+      "2023-08-25": 635
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.precisiongenetics.com.ico",
     "slug": "reports-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.81%",
+    "uptimeDay": "55.89%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.81%",
     "time": 76,
     "timeDay": 35,
     "timeWeek": 56,
     "timeMonth": 70,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-08-25": 138
+      "2023-08-25": 635
     }
   },
   {
@@ -144,17 +144,19 @@
     "url": "https://qrm.precisiongenetics.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/qrm.precisiongenetics.com.ico",
     "slug": "frontend-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 106,
-    "timeWeek": 209,
-    "timeMonth": 221,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "time": 215,
+    "timeDay": 113,
+    "timeWeek": 198,
+    "timeMonth": 217,
+    "timeYear": 215,
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   }
 ]
