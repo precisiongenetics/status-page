@@ -1,7 +1,7 @@
 url: https://api.precisiongenetics.com/kahuna/v1/status
-status: down
-code: 503
-responseTime: 112
-lastUpdated: 2023-09-05T23:41:16.974Z
+status: up
+code: 200
+responseTime: 398
+lastUpdated: 2023-09-06T01:11:29.447Z
 startTime: 2023-01-05T03:41:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
