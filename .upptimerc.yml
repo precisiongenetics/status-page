@@ -6,24 +6,24 @@ sites:
   - name: Precision Genetics
     url: https://www.precisiongenetics.com
   - name: Kahuna API
-    url: https://api.precisiongenetics.com/kahuna/v1/status
+    url: https://api.aina-labs.com/kahuna/v1/status
   - name: Health API
-    url: https://api.precisiongenetics.com/health/v1/status
+    url: https://api.aina-labs.com/health/v1/status
   - name: Communications API
-    url: https://api.precisiongenetics.com/email/v1/status
+    url: https://api.aina-labs.com/email/v1/status
   - name: Jobs API
-    url: https://api.precisiongenetics.com/jobs/v1/status
+    url: https://api.aina-labs.com/jobs/v1/status
   - name: Beat API
-    url: https://api.precisiongenetics.com/beat/v1/status
+    url: https://api.aina-labs.com/beat/v1/status
   - name: Reports API
-    url: https://api.precisiongenetics.com/reports/v1/status
+    url: https://api.aina-labs.com/reports/v1/status
   - name: Frontend UI
-    url: https://qrm.precisiongenetics.com/auth/login
+    url: https://qrm.aina-labs.com/auth/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.precisiongenetics.com
+  cname: status.aina-labs.com
   # baseUrl: /status-page
   logoUrl: https://pg-logos.s3.amazonaws.com/pg-logo.png
   name: Precision Genetics
