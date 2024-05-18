@@ -1,7 +1,7 @@
 url: https://api.aina-labs.com/health/v1/status
 status: up
 code: 200
-responseTime: 222
-lastUpdated: 2024-05-17T23:01:57.171Z
+responseTime: 16
+lastUpdated: 2024-05-18T23:00:44.784Z
 startTime: 2023-01-05T03:41:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
