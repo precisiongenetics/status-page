@@ -4,18 +4,20 @@
     "url": "https://www.precisiongenetics.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.precisiongenetics.com.ico",
     "slug": "precision-genetics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 717,
-    "timeWeek": 683,
-    "timeMonth": 554,
-    "timeYear": 470,
-    "dailyMinutesDown": {}
+    "time": 508,
+    "timeDay": 653,
+    "timeWeek": 671,
+    "timeMonth": 555,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "Kahuna API",
