@@ -1,7 +1,7 @@
 url: https://api.aina-labs.com/jobs/v1/status
-status: down
-code: 500
-responseTime: 3345
-lastUpdated: 2024-08-02T11:27:31.323Z
+status: up
+code: 200
+responseTime: 19
+lastUpdated: 2024-08-02T11:32:41.006Z
 startTime: 2023-01-05T03:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
