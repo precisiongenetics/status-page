@@ -1,7 +1,7 @@
 url: https://api.aina-labs.com/email/v1/status
-status: up
-code: 200
-responseTime: 31
-lastUpdated: 2024-08-01T23:00:57.499Z
+status: down
+code: 500
+responseTime: 10035
+lastUpdated: 2024-08-02T11:26:53.024Z
 startTime: 2023-01-05T03:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
