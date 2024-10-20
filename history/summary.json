@@ -4,19 +4,19 @@
     "url": "https://www.precisiongenetics.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.precisiongenetics.com.ico",
     "slug": "precision-genetics",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 241,
-    "timeWeek": 816,
-    "timeMonth": 514,
-    "timeYear": 479,
+    "time": 481,
+    "timeDay": 681,
+    "timeWeek": 854,
+    "timeMonth": 533,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2024-10-20": 0
+      "2024-10-20": 9
     }
   },
   {
