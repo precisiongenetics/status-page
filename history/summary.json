@@ -6,18 +6,16 @@
     "slug": "precision-genetics",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 681,
-    "timeWeek": 854,
-    "timeMonth": 533,
-    "timeYear": 481,
-    "dailyMinutesDown": {
-      "2024-10-20": 9
-    }
+    "timeDay": 1032,
+    "timeWeek": 857,
+    "timeMonth": 552,
+    "timeYear": 483,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kahuna API",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 284,
-    "timeDay": 126,
-    "timeWeek": 341,
-    "timeMonth": 282,
-    "timeYear": 288,
+    "timeDay": 385,
+    "timeWeek": 345,
+    "timeMonth": 284,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2023-12-20": 44
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 160,
+    "timeDay": 83,
     "timeWeek": 101,
-    "timeMonth": 148,
+    "timeMonth": 132,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2023-12-20": 44
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 156,
+    "timeDay": 82,
     "timeWeek": 131,
-    "timeMonth": 134,
+    "timeMonth": 131,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2023-12-20": 44
@@ -91,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 194,
+    "timeDay": 84,
     "timeWeek": 87,
-    "timeMonth": 121,
+    "timeMonth": 119,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2023-12-20": 44,
@@ -112,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 102,
-    "timeDay": 157,
-    "timeWeek": 103,
-    "timeMonth": 116,
+    "timeDay": 81,
+    "timeWeek": 102,
+    "timeMonth": 114,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-02-07": 64,
@@ -133,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 128,
-    "timeDay": 147,
-    "timeWeek": 128,
-    "timeMonth": 140,
+    "timeDay": 85,
+    "timeWeek": 129,
+    "timeMonth": 138,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2024-01-19": 16,
@@ -155,10 +153,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 111,
-    "timeWeek": 362,
-    "timeMonth": 226,
-    "timeYear": 218,
+    "timeDay": 416,
+    "timeWeek": 361,
+    "timeMonth": 236,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   }
 ]
